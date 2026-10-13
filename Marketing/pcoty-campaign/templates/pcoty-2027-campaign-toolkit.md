@@ -53,7 +53,6 @@ A case study your own team wrote is the cheapest claim in the pack. Anyone can w
 
 PCotY, the Project Business Foundation's Project Contractor of the Year Award, produces exactly that: a project file that has already been argued with by two verified assessors and your own client, which is the kind of proof that tends to travel into the next RFP. Two assessors who had nothing to do with the project score the evidence, and the client fills in a form of their own, separately from your nomination.
 
-Worth knowing: this is the first cycle. That does not change the process, the same assessor verification and client sign-off apply whether a project enters this cycle or a later one.
 
 It is free, worldwide, for contractors, consultancies, and freelancers. Eligibility, categories, and guides: https://www.ittd.space/pbf-pcoty. Closes 30 November 2026 ([closing time and timezone still to confirm]).
 
@@ -98,7 +97,6 @@ Most of the best judgement calls a contractor makes for a client never get writt
 
 The quiet judgement calls your members make for clients rarely get written up anywhere, this gives them a way to have one of those checked by assessors who verify their own credentials before they are allowed near a nomination. Two independent assessors read the evidence, and the client fills in a separate form we send directly to them, so nobody nominates themselves and grades their own homework.
 
-Worth knowing: this is the first cycle. The process is new, but the credibility is not tied to how many cycles have run, it comes from the same two things every year: verified assessors and a client who actually signs off.
 
 It is free and worldwide. If a member has a customer project worth putting forward, nomination details are here: https://project-business.org/pcoty/. Guides and eligibility: https://www.ittd.space/pbf-pcoty. Closes 30 November 2026 ([closing time and timezone still to confirm]).
 
