@@ -9,14 +9,16 @@ Each recipient group has its own incentive, grounded in the published PCotY arti
 - **Partner Amplification Master Email** - for associations and chapters (Table 1). Incentive: naming the quiet judgement calls that never get written up.
 - **Consultancy / Service Provider Master Email** - for consultancies and delivery firms (Table 2). Incentive: a project file that survived independent scrutiny travels further than a self-written case study.
 - **PR / Communications Team Master Email** - for named PR and communications contacts (Table 3). Incentive: a client-backed story is worth more than an internally authored one.
+- **Podcast & Media Host Master Email** - for project management and business podcast hosts worldwide (Table 4). Incentive: a ready-made, listener-relevant mention plus an assessor-recruitment angle for their audience.
 
 Each email mentions that this is the first cycle as one supporting line, not the headline, since leading with "first cycle" on its own can read as unproven rather than credible.
 
 Before sending any of them:
 
 - Replace `[closing time and timezone still to confirm]` with the authoritative **30 November 2026** closing timestamp once the application-system close time is confirmed (see `strategy/PCotY_2027_Marketing_Plan.md`).
-- Fill the merge field shown in each table into the matching `[Association]`, `[Firm]`, `[Name]`, or `[Company]` placeholder in the master email.
-- Generic inboxes (info@, office@, contact@) use the org name as the greeting ("Hello PMI Germany team,"). Named PR contacts are addressed by their first name.
+- Fill the merge field shown in each table into the matching `[Association]`, `[Firm]`, `[Name]`, `[Company]`, `[Host]`, or `[Show]` placeholder in the master email.
+- Generic inboxes (info@, office@, contact@) use the org name as the greeting ("Hello PMI Germany team,"). Named PR and podcast contacts are addressed by their first name.
+- Rows marked **unverified** in Table 4 have no confirmed email address (contact-form-only sites, or feedspot entries with the local part masked). Look up or confirm the address before sending - do not guess it.
 
 ## Table 1: Associations and Chapters
 
@@ -88,3 +90,25 @@ Master email: PR / Communications Team Master Email. Subject and one inline ment
 | TCS (Corporate Communications & India) | corporate.communications@tcs.com | TCS Corporate Communications team | TCS | A client-backed story from TCS, not another internal one? |
 | TCS (Middle East & Africa PR) | pragya.priyadarshini@tcs.com | Pragya | TCS | A client-backed story from TCS (Middle East and Africa), not another internal one? |
 | Infosys (Global PR) | PR_Global@Infosys.com | Infosys Global PR team | Infosys | A client-backed story from Infosys, not another internal one? |
+
+## Table 4: Podcasts and Media (Worldwide)
+
+Master email: Podcast & Media Host Master Email. Subject uses the Show merge field, shown pre-filled below. Covers project-management-niche shows and business/entrepreneurship shows across North America, UK/Europe, and DACH - not just the Munich/DACH prospecting list in Confluence. Rows marked **unverified** need a confirmed address before sending (contact-form-only site, or host/producer email masked at source) - do not guess the local part of the address.
+
+| Show | Host(s) | Region / Focus | Email | Greeting merge (`[Host]`) | Show merge (`[Show]`) |
+| --- | --- | --- | --- | --- | --- |
+| The Project Management Podcast (The PM Podcast) | Cornelius Fichtner | USA / Global - PMP exam prep, agile, PMO | info@pm-podcast.com | Cornelius | The Project Management Podcast |
+| People and Projects Podcast | Andy Kaufman | USA / Global - leadership, PM, AI | show@PeopleAndProjectsPodcast.com | Andy | the People and Projects Podcast |
+| Manage This | Andy Crowe, Bill Yates, Wendy Grounds (Velociteach) | USA / Global - PM across industries | info@velociteach.com | the Manage This team | Manage This |
+| Project Podcast (APM) | Association for Project Management | UK - chartered body for the project profession | info@apm.org.uk | the APM team | the APM Project Podcast |
+| Projektmanagement & PMO | Tina Ciotola, Johann Strasser, Dr. Thomas Henkelmann (TPG) | Germany - PMO, portfolio, resource management | info@theprojectgroup.com | the TPG team | Projektmanagement & PMO |
+| Projekt-Safari | Mario Neumann | Germany - practical survival tips for PMs | info@abenteuer-projekte.de | Mario | Projekt-Safari |
+| Projektmanagement im Glas | Christian Dürk (Corivus) | Germany - real project experience and pitfalls | info@corivus.de | Christian | Projektmanagement im Glas |
+| Der Projekt-Management Podcast | Thomas Wuttke | Germany - PM, agile, PMI-aligned, interviews | *unverified - no public contact page found; use LinkedIn or the show's social channels* | Thomas | Der Projekt-Management Podcast |
+| Project Management Happy Hour | Kim Essendrup, Kate Anderson | USA / Global - frank, practical PM discussion | *unverified - contact form only at pmhappyhour.com/contact* | Kim and Kate | Project Management Happy Hour |
+| Projectified | Steve Hendershot / PMI | USA / Global - PMI's official podcast | *unverified - PMI contact is a general switchboard, not a direct podcast email* | the Projectified team | Projectified |
+| Kassenzone \| CEO Interviews | Alexander Graf, Karolin Junker De Neui | Germany - e-commerce and CEO business strategy | *unverified - no public email; approach via LinkedIn (@supergraf)* | Alexander | Kassenzone |
+| Capital der Wirtschaftspodcast | Nils Kreimeier, Martin Kaelble | Germany - Handelsblatt Group business podcast | *unverified - route through Handelsblatt/Capital press contact* | the Capital podcast team | Capital der Wirtschaftspodcast |
+| Zipresso Projektmanagement Podcast | Patric Eid | Germany - team development, PM methods, leadership | *unverified - contact form only at zipresso.de, no scraped email* | Patric | Zipresso |
+| The Project Chatter Podcast | Val Matthews, Dale Foong | Australia / South Africa - PM and PMO trends | *unverified - masked email at source, confirm via show's socials* | Val and Dale | The Project Chatter Podcast |
+| 5 Minutes Podcast | Ricardo Vargas | Brazil / Global - project, portfolio, and risk management | *unverified - masked email at source (ricardo-vargas.com domain confirmed)* | Ricardo | the 5 Minutes Podcast |

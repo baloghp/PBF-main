@@ -108,6 +108,30 @@ Best regards,
 Peter Balogh
 Program Manager, PCotY 2027 volunteer team
 
+## Podcast & Media Host Master Email
+
+Send to: project management and business podcast hosts worldwide (Table 4). Merge fields: [Host] (greeting), [Show] (reused inline).
+
+**Subject:** Worth a mention on [Show]?
+
+Hello [Host],
+
+I'm on the volunteer team for the Project Business Foundation's Project Contractor of the Year (PCotY) 2027 Award, and I've been a listener of [Show] for a while.
+
+PCotY recognizes contractors, consultancies, and freelancers whose customer-facing project work goes beyond competent delivery: measurable impact, innovation, and lasting value, validated independently by two assessors and the client themselves, not self-reported. It is free to enter and open worldwide, closing 30 November 2026 ([closing time and timezone still to confirm]).
+
+Given [Show]'s audience, I thought this might be worth a mention, whether that is a quick listener call-out pointing people to the nomination page, or a short conversation about what client-validated recognition means for contractors and the PMs who work with them. Also worth knowing: we are recruiting independent volunteer assessors, which might interest listeners looking to get involved from the other side.
+
+Nomination details: https://project-business.org/pcoty/
+Programme and guides: https://www.ittd.space/pbf-pcoty
+Assessor info: https://www.ittd.space/become-an-assessor
+
+No pressure at all, even a single-line mention with the link would help us reach more contractors worth nominating. Happy to send a one-pager or anything else that makes it easier to use.
+
+Best regards,
+Peter Balogh
+Program Manager, PCotY 2027 volunteer team
+
 ## Started-But-Incomplete Reminder
 
 **Subject:** Complete your PCotY 2027 nomination by [deadline]
