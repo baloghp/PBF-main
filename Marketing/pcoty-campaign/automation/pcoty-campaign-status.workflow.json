@@ -1,0 +1,84 @@
+{
+  "name": "PCotY - Campaign Status and Deadline Wave",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "pcoty-campaign-status",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "id": "a63bbb47-51e3-4ae4-a0cf-fbc265dd3f58",
+      "name": "Receive Campaign Date",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [
+        -420,
+        0
+      ],
+      "webhookId": "698047da-f6f5-482c-a5e4-6475631371df"
+    },
+    {
+      "parameters": {
+        "jsCode": "const input = $json.body ?? $json;\nif (!input.deadline) {\n  return [{ json: { error: 'deadline is required as an ISO 8601 timestamp with timezone', humanReviewRequired: true } }];\n}\n\nconst now = input.now ? new Date(input.now) : new Date();\nconst deadline = new Date(input.deadline);\nif (Number.isNaN(deadline.getTime())) {\n  return [{ json: { error: 'deadline is not a valid date', suppliedDeadline: input.deadline, humanReviewRequired: true } }];\n}\n\nconst millisecondsPerDay = 24 * 60 * 60 * 1000;\nconst daysRemaining = Math.ceil((deadline.getTime() - now.getTime()) / millisecondsPerDay);\nconst exactWaves = [30, 21, 14, 7, 3, 1, 0];\nconst waveDue = exactWaves.includes(daysRemaining) ? daysRemaining : null;\nlet stage = 'education';\nif (daysRemaining <= 21 && daysRemaining > 7) stage = 'conversion';\nif (daysRemaining <= 7 && daysRemaining >= 0) stage = 'deadline';\nif (daysRemaining < 0) stage = 'closed';\n\nconst actions = {\n  education: ['Explain eligibility and client validation', 'Publish evidence checklist', 'Promote nomination clinic and assessor recruitment'],\n  conversion: ['Segment started versus completed nominations', 'Draft incomplete-submission reminders', 'Check missing customer assessments'],\n  deadline: ['Use exact closing timestamp and timezone', 'Send only to consented relevant audiences', 'Offer submission support and suppress completed records'],\n  closed: ['Stop nomination calls', 'Reconcile attribution and funnel metrics', 'Publish thank-you and next-stage dates']\n};\n\nreturn [{ json: {\n  campaign: input.campaign ?? 'PCotY 2027',\n  now: now.toISOString(),\n  deadline: deadline.toISOString(),\n  daysRemaining,\n  stage,\n  waveDue,\n  actions: actions[stage],\n  humanReviewRequired: true,\n  warning: 'This workflow creates a decision packet only. It does not send or publish messages.'\n} }];"
+      },
+      "id": "ad2a4793-6a24-4f89-a129-d60516604ace",
+      "name": "Calculate Campaign Wave",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -140,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ JSON.stringify($json) }}",
+        "options": {}
+      },
+      "id": "3ca21752-4c7a-474e-9639-2a48642caea5",
+      "name": "Return Campaign Packet",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.4,
+      "position": [
+        140,
+        0
+      ]
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Receive Campaign Date": {
+      "main": [
+        [
+          {
+            "node": "Calculate Campaign Wave",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Calculate Campaign Wave": {
+      "main": [
+        [
+          {
+            "node": "Return Campaign Packet",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "d0a12afc-e4c4-47ec-b057-cb0aa79eeb9f",
+  "meta": {
+    "templateCredsSetupCompleted": true
+  },
+  "tags": []
+}
