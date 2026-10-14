@@ -98,12 +98,12 @@ Master email: Podcast & Media Host Master Email. Subject uses the Show merge fie
 | Show | Host(s) | Region / Focus | Email | Greeting merge (`[Host]`) | Show merge (`[Show]`) |
 | --- | --- | --- | --- | --- | --- |
 | The Project Management Podcast (The PM Podcast) | Cornelius Fichtner | USA / Global - PMP exam prep, agile, PMO | **Confirmed** - replied personally at cornelius.fichtner@gmail.com (not info@pm-podcast.com); declined an interview (travel until 24 Nov) but offered a newsletter mention to ~9,000 subscribers plus a LinkedIn post - see "Confirmed Placement" copy in `templates/pcoty-2027-campaign-toolkit.md` | Cornelius | The Project Management Podcast |
-| People and Projects Podcast | Andy Kaufman | USA / Global - leadership, PM, AI | show@PeopleAndProjectsPodcast.com | Andy | the People and Projects Podcast |
-| Manage This | Andy Crowe, Bill Yates, Wendy Grounds (Velociteach) | USA / Global - PM across industries | info@velociteach.com | the Manage This team | Manage This |
-| Project Podcast (APM) | Association for Project Management | UK - chartered body for the project profession | info@apm.org.uk | the APM team | the APM Project Podcast |
-| Projektmanagement & PMO | Tina Ciotola, Johann Strasser, Dr. Thomas Henkelmann (TPG) | Germany - PMO, portfolio, resource management | info@theprojectgroup.com | the TPG team | Projektmanagement & PMO |
-| Projekt-Safari | Mario Neumann | Germany - practical survival tips for PMs | info@abenteuer-projekte.de | Mario | Projekt-Safari |
-| Projektmanagement im Glas | Christian Dürk (Corivus) | Germany - real project experience and pitfalls | info@corivus.de | Christian | Projektmanagement im Glas |
+| People and Projects Podcast | Andy Kaufman | USA / Global - leadership, PM, AI | **Sent 2026-10-14** - show@PeopleAndProjectsPodcast.com | Andy | the People and Projects Podcast |
+| Manage This | Andy Crowe, Bill Yates, Wendy Grounds (Velociteach) | USA / Global - PM across industries | **Sent 2026-10-14** - info@velociteach.com | the Manage This team | Manage This |
+| Project Podcast (APM) | Association for Project Management | UK - chartered body for the project profession | **Sent 2026-10-14** - info@apm.org.uk | the APM team | the APM Project Podcast |
+| Projektmanagement & PMO | Tina Ciotola, Johann Strasser, Dr. Thomas Henkelmann (TPG) | Germany - PMO, portfolio, resource management | **Sent 2026-10-14** - info@theprojectgroup.com | the TPG team | Projektmanagement & PMO |
+| Projekt-Safari | Mario Neumann | Germany - practical survival tips for PMs | **Sent 2026-10-14** to mn@marioneumann.com (verified, after info@abenteuer-projekte.de bounced - stale domain) | Mario | Projekt-Safari |
+| Projektmanagement im Glas | Christian Dürk (Corivus) | Germany - real project experience and pitfalls | **Sent 2026-10-14** - info@corivus.de | Christian | Projektmanagement im Glas |
 | Der Projekt-Management Podcast | Thomas Wuttke | Germany - PM, agile, PMI-aligned, interviews | *unverified - no public contact page found; use LinkedIn or the show's social channels* | Thomas | Der Projekt-Management Podcast |
 | Project Management Happy Hour | Kim Essendrup, Kate Anderson | USA / Global - frank, practical PM discussion | *unverified - contact form only at pmhappyhour.com/contact* | Kim and Kate | Project Management Happy Hour |
 | Projectified | Steve Hendershot / PMI | USA / Global - PMI's official podcast | *unverified - PMI contact is a general switchboard, not a direct podcast email* | the Projectified team | Projectified |
