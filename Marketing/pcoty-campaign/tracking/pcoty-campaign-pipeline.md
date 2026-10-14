@@ -97,7 +97,7 @@ Master email: Podcast & Media Host Master Email. Subject uses the Show merge fie
 
 | Show | Host(s) | Region / Focus | Email | Greeting merge (`[Host]`) | Show merge (`[Show]`) |
 | --- | --- | --- | --- | --- | --- |
-| The Project Management Podcast (The PM Podcast) | Cornelius Fichtner | USA / Global - PMP exam prep, agile, PMO | info@pm-podcast.com | Cornelius | The Project Management Podcast |
+| The Project Management Podcast (The PM Podcast) | Cornelius Fichtner | USA / Global - PMP exam prep, agile, PMO | **Confirmed** - replied personally at cornelius.fichtner@gmail.com (not info@pm-podcast.com); declined an interview (travel until 24 Nov) but offered a newsletter mention to ~9,000 subscribers plus a LinkedIn post - see "Confirmed Placement" copy in `templates/pcoty-2027-campaign-toolkit.md` | Cornelius | The Project Management Podcast |
 | People and Projects Podcast | Andy Kaufman | USA / Global - leadership, PM, AI | show@PeopleAndProjectsPodcast.com | Andy | the People and Projects Podcast |
 | Manage This | Andy Crowe, Bill Yates, Wendy Grounds (Velociteach) | USA / Global - PM across industries | info@velociteach.com | the Manage This team | Manage This |
 | Project Podcast (APM) | Association for Project Management | UK - chartered body for the project profession | info@apm.org.uk | the APM team | the APM Project Podcast |

@@ -53,7 +53,6 @@ A case study your own team wrote is the cheapest claim in the pack. Anyone can w
 
 PCotY, the Project Business Foundation's Project Contractor of the Year Award, produces exactly that: a project file that has already been argued with by two verified assessors and your own client, which is the kind of proof that tends to travel into the next RFP. Two assessors who had nothing to do with the project score the evidence, and the client fills in a form of their own, separately from your nomination.
 
-
 It is free, worldwide, for contractors, consultancies, and freelancers. Eligibility, categories, and guides: https://www.ittd.space/pbf-pcoty. Closes 30 November 2026 ([closing time and timezone still to confirm]).
 
 If one project comes to mind, reply and I will point you to the right guide. Either way, assessment stays independent of the programme team.
@@ -97,7 +96,6 @@ Most of the best judgement calls a contractor makes for a client never get writt
 
 The quiet judgement calls your members make for clients rarely get written up anywhere, this gives them a way to have one of those checked by assessors who verify their own credentials before they are allowed near a nomination. Two independent assessors read the evidence, and the client fills in a separate form we send directly to them, so nobody nominates themselves and grades their own homework.
 
-
 It is free and worldwide. If a member has a customer project worth putting forward, nomination details are here: https://project-business.org/pcoty/. Guides and eligibility: https://www.ittd.space/pbf-pcoty. Closes 30 November 2026 ([closing time and timezone still to confirm]).
 
 If this is worth a line in your newsletter, a working-group mention, or a member update, reply and I will send the checklist and a link for your channel.
@@ -129,6 +127,59 @@ No pressure at all, even a single-line mention with the link would help us reach
 Best regards,
 Peter Balogh
 Program Manager, PCotY 2027 volunteer team
+
+## Confirmed Placement: Cornelius Fichtner / The Project Management Podcast
+
+Status: Cornelius can't interview before his 24 November trip, but offered to run a copy/paste item in his newsletter to ~9,000 subscribers, and we're also sending him a LinkedIn post. Sent to his personal address (cornelius.fichtner@gmail.com), not the show's general inbox. Timing note: his return (24 Nov) leaves a tight window before the 30 November close - flagged to him that sending before departure gives subscribers the most runway.
+
+### Newsletter copy (ready to paste)
+
+**Suggested subject line:** A Free, Worldwide Award for Contractors Who Deliver Real Client Impact
+
+I don't usually use this space to promote something I'm not personally running, but this one caught my attention and it's worth 60 seconds of your time.
+
+The Project Business Foundation has just opened nominations for the Project Contractor of the Year (PCotY) 2027 Award. It recognizes contractors, consultancies, and freelancers whose customer-facing project work goes beyond "on time, on budget" into measurable impact, innovation, and lasting value.
+
+What makes it worth your attention: every nomination is reviewed by two independent assessors and validated directly by the client, who fills in a separate assessment form. Nobody nominates themselves and grades their own homework - this is as close to a client-backed case study as it gets.
+
+A few things worth knowing:
+
+- Free to enter, open worldwide, five minutes to submit
+- Judged by two independent assessors and the client separately, not self-reported - this is a nomination you cannot write yourself
+- The kind of recognition that travels into a contractor's next RFP or client pitch, not just a line on a CV
+- Nominations close 30 November 2026
+
+If you've worked with a contractor whose project deserves to become a case others can learn from, or you manage contractors and want to recognize their work, it's worth a look:
+
+Nomination details: https://project-business.org/pcoty/
+Programme and guides: https://www.ittd.space/pbf-pcoty
+
+The programme is also recruiting independent volunteer assessors, if you'd rather be on the evaluating side: https://www.ittd.space/become-an-assessor
+
+### LinkedIn post copy (ready to post)
+
+I don't usually promote things outside my own shows, but this is worth a mention.
+
+The Project Business Foundation just opened nominations for the Project Contractor of the Year (PCotY) 2027 Award, recognizing contractors, consultancies, and freelancers whose customer-facing project work creates real, measurable impact.
+
+What stood out to me: every nomination is checked by two independent assessors AND validated directly by the client, separately from the nomination itself. No self-grading.
+
+- Free, worldwide
+- A testimony to an extraordinary accomplishment, verified independently by assessors and the client - not self-reported
+- The kind of recognition that travels into your next RFP, not just a LinkedIn post
+- Closes 30 November 2026
+
+If you've worked with (or as) a contractor who delivered work worth recognizing, it's worth a look: https://project-business.org/pcoty/
+
+Also recruiting independent assessors, if that's more your speed: https://www.ittd.space/become-an-assessor
+
+Follow the Project Contractor of the Year page for updates as the cycle progresses: https://www.linkedin.com/showcase/p-coty/
+
+#ProjectManagement #PCoTY #ContractorOfTheYear
+
+#ContractorOfTheYear #ProjectBusinessManagement #BusinessExcellence #ProjectLeadership #Innovation #CustomerSuccess #ProjectProfessionals #ProjectSuccess #PCOTY2027 #ProjectContractor #CrossCulturalCollaboration #ProjectManagement #ContractorExcellence #CommercialManagement #ContractManagement
+
+
 
 ## Started-But-Incomplete Reminder
 
